@@ -1,0 +1,10 @@
+c:\users\jamal\source\repos\FiveCardStudPoker\DemoConsoleUI\bin\Debug\DemoConsoleUI.exe.config
+c:\users\jamal\source\repos\FiveCardStudPoker\DemoConsoleUI\bin\Debug\DemoConsoleUI.exe
+c:\users\jamal\source\repos\FiveCardStudPoker\DemoConsoleUI\bin\Debug\DemoConsoleUI.pdb
+c:\users\jamal\source\repos\FiveCardStudPoker\DemoConsoleUI\bin\Debug\Demo.dll
+c:\users\jamal\source\repos\FiveCardStudPoker\DemoConsoleUI\bin\Debug\Demo.pdb
+c:\users\jamal\source\repos\FiveCardStudPoker\DemoConsoleUI\obj\Debug\ConsoleDemoUI.csprojAssemblyReference.cache
+c:\users\jamal\source\repos\FiveCardStudPoker\DemoConsoleUI\obj\Debug\ConsoleDemoUI.csproj.CoreCompileInputs.cache
+c:\users\jamal\source\repos\FiveCardStudPoker\DemoConsoleUI\obj\Debug\ConsoleDemoUI.csproj.CopyComplete
+c:\users\jamal\source\repos\FiveCardStudPoker\DemoConsoleUI\obj\Debug\DemoConsoleUI.exe
+c:\users\jamal\source\repos\FiveCardStudPoker\DemoConsoleUI\obj\Debug\DemoConsoleUI.pdb

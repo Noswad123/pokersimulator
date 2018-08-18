@@ -1,0 +1,6 @@
+c:\users\jamal\source\repos\FiveCardStudPoker\FiveCardStud\bin\Debug\FiveCardStud.dll
+c:\users\jamal\source\repos\FiveCardStudPoker\FiveCardStud\bin\Debug\FiveCardStud.pdb
+c:\users\jamal\source\repos\FiveCardStudPoker\FiveCardStud\obj\Debug\FiveCardStud.csprojAssemblyReference.cache
+c:\users\jamal\source\repos\FiveCardStudPoker\FiveCardStud\obj\Debug\FiveCardStud.csproj.CoreCompileInputs.cache
+c:\users\jamal\source\repos\FiveCardStudPoker\FiveCardStud\obj\Debug\FiveCardStud.dll
+c:\users\jamal\source\repos\FiveCardStudPoker\FiveCardStud\obj\Debug\FiveCardStud.pdb
